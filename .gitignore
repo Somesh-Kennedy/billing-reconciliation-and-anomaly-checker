@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+*.db
+ground_truth.json
+big_truth.json
+findings.json
+out.json
+out.csv
